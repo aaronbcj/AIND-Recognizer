@@ -1,0 +1,10 @@
+{
+    "python.unitTest.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "asl_test*.py"
+    ],
+    "python.unitTest.unittestEnabled": true
+}
